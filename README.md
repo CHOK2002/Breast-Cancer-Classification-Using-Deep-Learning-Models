@@ -10,8 +10,8 @@ This project utilizes four different deep learning models to classify breast can
 Breast Ultrasound Images Dataset: https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset
 
 ## Result and Discussion
-- The result shows that the ViT (Pre-Trained) model achieved the highest accuracy in classifying breast cancer ultrasound images into three classes (Benign, Malignant, Normal), with an accuracy of 92%.
-- On the other side, the reason why the CNN+LSTM model is achieving lower accuracy is most likely because LSTMs are primarily designed to handle sequential or temporal data, such as video frames or time-series data, whereas the dataset in this case might not have the sequential characteristics that LSTMs are optimized for.
+- The result shows that the ViT (Pre-Trained) model achieved the highest accuracy in classifying breast cancer ultrasound images into three classes (Benign, Malignant, Normal), with an accuracy of **92%**.
+- On the other side, the reason why the CNN+LSTM model is achieving the lowest accuracy (**44%**) is most likely because LSTMs are primarily designed to handle sequential or temporal data, such as video frames or time-series data, whereas the dataset in this case might not have the sequential characteristics that LSTMs are optimized for.
 ![image](https://github.com/user-attachments/assets/35263658-0d18-444c-84e1-3b0a39156b06)
 
 ## Benchmarking with Previous Similar Studies
