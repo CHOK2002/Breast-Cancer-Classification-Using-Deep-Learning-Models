@@ -6,7 +6,7 @@ This project utilizes four different deep learning models to classify breast can
 ## Methodology / Folders Breakdown
 ![image](https://github.com/user-attachments/assets/e7ce4103-0ab6-4476-9cb5-735a9e228028)
 
-## Link of Datasets (Kaggle)
+## Link of Dataset (Kaggle)
 Breast Ultrasound Images Dataset: https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset
 
 ## Result and Discussion
